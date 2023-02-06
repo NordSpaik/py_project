@@ -1,5 +1,9 @@
 from funcs import summ
 
-print summ(3,5)
+summ(3,5)
 
+print(summ)
 
+minus(6, 3)
+
+print(minus)
